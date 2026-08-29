@@ -18,6 +18,17 @@ x-api-surface: none
 x-api-surface-note: DTC footwear e-commerce (Shopify storefront); no public developer
   API, docs, SDKs, or security.txt found on enrichment 2026-07-19.
 x-enriched: '2026-07-19'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
