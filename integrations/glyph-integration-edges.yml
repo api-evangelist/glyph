@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/glyph/integrations
+- https://n8n.io/integrations/glyph/
+- https://composio.dev/toolkits/glyph
+- https://monid.ai/tools/glyph
+checked:
+- https://composio.dev/toolkits/glyph
+- https://monid.ai/tools/glyph
+- https://n8n.io/integrations/glyph/
+- https://zapier.com/apps/glyph/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
